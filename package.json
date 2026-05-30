@@ -1,0 +1,36 @@
+{
+  "name": "goldenjoy369",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "GoldenJoy369 No-Zero Spiral interactive React runtime for creative round completion, seed tending, and return loops.",
+  "homepage": "https://michaelwave369.github.io/goldenjoy369/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  },
+  "keywords": [
+    "goldenjoy369",
+    "phi369",
+    "no-zero",
+    "creative-continuity",
+    "react",
+    "vite",
+    "github-pages",
+    "zenodo"
+  ],
+  "license": "MIT"
+}
