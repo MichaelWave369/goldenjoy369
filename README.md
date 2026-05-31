@@ -1,8 +1,18 @@
 # GoldenJoy369 — No-Zero Spiral Runtime
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20469484.svg)](https://doi.org/10.5281/zenodo.20469484)
+
 GoldenJoy369 is an interactive React/Vite prototype for the **Golden Joy No-Zero Spiral**: a PHI369-style creative continuity model for logging creative rounds, sealing essence, tending seeded projects, and returning to work in season.
 
 > Nothing is lost by accident. Every round is sealed, returned, merged, archived, or released with honor.
+
+## Live app
+
+https://michaelwave369.github.io/goldenjoy369/
+
+## DOI
+
+https://doi.org/10.5281/zenodo.20469484
 
 ## What the MVP does
 
