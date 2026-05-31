@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1414" viewBox="0 0 1000 1414" role="img" aria-labelledby="title desc">
+  <title id="title">GoldenJoy369 Master Infographic Poster</title>
+  <desc id="desc">A public master infographic for GoldenJoy369: The Golden Joy No-Zero Spiral.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="18%" r="80%">
+      <stop offset="0" stop-color="#33220a"/>
+      <stop offset="0.42" stop-color="#111"/>
+      <stop offset="1" stop-color="#050505"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff0b6"/>
+      <stop offset="0.5" stop-color="#d9a83a"/>
+      <stop offset="1" stop-color="#fff0b6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .gold{fill:url(#gold)} .stroke{stroke:#d9a83a;stroke-width:2;fill:none} .thin{stroke:#d9a83a;stroke-width:1;fill:none;opacity:.7}
+      .panel{fill:#070707;stroke:#d9a83a;stroke-width:1.8;rx:18;opacity:.94}.text{fill:#f7e6bd;font-family:Georgia,serif}.sans{fill:#f7e6bd;font-family:Inter,Arial,sans-serif}.muted{fill:#c7ad72}.small{font-size:20px}.tiny{font-size:16px}.h2{font-size:34px;font-weight:700}.formula{font-size:20px;font-style:italic}.title{font-size:92px;font-weight:700}.subtitle{font-size:34px}.tag{font-size:20px;font-style:italic}.num{font-size:44px;font-weight:700}.node{fill:#090909;stroke:#e6b84c;stroke-width:3;filter:url(#glow)}
+    </style>
+  </defs>
+  <rect width="1000" height="1414" fill="url(#bg)"/>
+  <circle cx="85" cy="70" r="48" class="thin"/><path d="M85 24 L42 100 L128 100 Z M85 24 L85 116 M42 100 L128 100" class="thin"/>
+  <circle cx="915" cy="70" r="48" class="thin"/><path d="M915 24 L872 100 L958 100 Z M915 24 L915 116 M872 100 L958 100" class="thin"/>
+  <text x="500" y="92" text-anchor="middle" class="gold text title">GoldenJoy369</text>
+  <text x="500" y="144" text-anchor="middle" class="gold text subtitle">The Golden Joy No-Zero Spiral</text>
+  <text x="500" y="184" text-anchor="middle" class="text tag">A creative continuity runtime for sealing rounds, tending seeds, and returning in season</text>
+
+  <rect x="26" y="205" width="225" height="430" class="panel"/>
+  <text x="138" y="320" text-anchor="middle" class="gold text h2">Core Law</text>
+  <text x="138" y="382" text-anchor="middle" class="text small">“Nothing is lost</text><text x="138" y="414" text-anchor="middle" class="text small">by accident.</text><text x="138" y="446" text-anchor="middle" class="text small">Every round is</text><text x="138" y="478" text-anchor="middle" class="text small">sealed, returned,</text><text x="138" y="510" text-anchor="middle" class="text small">merged, archived,</text><text x="138" y="542" text-anchor="middle" class="text small">or released</text><text x="138" y="574" text-anchor="middle" class="text small">with honor.”</text><text x="138" y="620" text-anchor="middle" class="gold text" font-size="46">∞</text>
+
+  <rect x="748" y="205" width="226" height="430" class="panel"/>
+  <text x="861" y="250" text-anchor="middle" class="gold text h2">Formula</text>
+  <text x="861" y="302" text-anchor="middle" class="text formula">R(i,k) := Ω369(Lᵢ, Δₖ)</text><text x="861" y="330" text-anchor="middle" class="text formula">= H9(S6(S3(Lᵢ, Δₖ)))</text>
+  <line x1="770" y1="358" x2="952" y2="358" class="thin"/>
+  <text x="861" y="394" text-anchor="middle" class="text formula">J(i,k) = mean(Energy,</text><text x="861" y="420" text-anchor="middle" class="text formula">Coherence, Delight, Closure,</text><text x="861" y="446" text-anchor="middle" class="text formula">Forward-Pull)</text>
+  <line x1="770" y1="470" x2="952" y2="470" class="thin"/>
+  <text x="861" y="506" text-anchor="middle" class="text formula">RC = clamp01(0.20E +</text><text x="861" y="532" text-anchor="middle" class="text formula">0.20A + 0.20N + 0.20M</text><text x="861" y="558" text-anchor="middle" class="text formula">+ 0.20J - 0.15D)</text>
+  <line x1="770" y1="584" x2="952" y2="584" class="thin"/>
+  <text x="861" y="620" text-anchor="middle" class="text formula">Inactive(Lᵢ) ≠ Abandoned(Lᵢ)</text>
+
+  <g filter="url(#glow)">
+    <path d="M506 424 C560 370, 650 395, 650 475 C650 570, 520 610, 455 545 C390 480, 430 360, 545 350 C675 338, 750 465, 690 590 C615 745, 365 710, 320 535 C272 350, 465 230, 635 305" class="stroke"/>
+    <circle cx="500" cy="430" r="118" class="thin"/><circle cx="500" cy="430" r="160" class="thin"/><circle cx="500" cy="430" r="205" class="thin"/>
+  </g>
+  <g><circle cx="500" cy="235" r="54" class="node"/><text x="500" y="228" text-anchor="middle" class="gold text num">3</text><text x="500" y="260" text-anchor="middle" class="text small">Spark</text></g>
+  <g><circle cx="674" cy="405" r="62" class="node"/><text x="674" y="397" text-anchor="middle" class="gold text num">6</text><text x="674" y="431" text-anchor="middle" class="text small">Structure</text></g>
+  <g><circle cx="500" cy="590" r="62" class="node"/><text x="500" y="580" text-anchor="middle" class="gold text num">9</text><text x="500" y="612" text-anchor="middle" class="text small">Harvest &amp; Seal</text></g>
+  <g><circle cx="326" cy="405" r="62" class="node"/><text x="326" y="397" text-anchor="middle" class="gold text num">φ</text><text x="326" y="426" text-anchor="middle" class="text tiny">Return / Tend</text><text x="326" y="448" text-anchor="middle" class="text tiny">Bridge</text></g>
+
+  <text x="500" y="680" text-anchor="middle" class="gold text h2">Runtime Flow</text>
+  <rect x="26" y="698" width="948" height="190" class="panel"/>
+  <g class="sans small" text-anchor="middle">
+    <text x="90" y="800">Capture</text><text x="90" y="828">Spark</text>
+    <text x="226" y="800">Build</text><text x="226" y="828">Structure</text>
+    <text x="363" y="800">Harvest</text><text x="363" y="828">Round</text>
+    <text x="500" y="800">Generate</text><text x="500" y="828">SealPacket</text>
+    <text x="636" y="800">Tend with</text><text x="636" y="828">SeedNotes</text>
+    <text x="773" y="800">Begin Return</text><text x="773" y="828">Round</text>
+    <text x="910" y="800">Export</text><text x="910" y="828">JSON</text>
+  </g>
+  <g class="stroke"><circle cx="90" cy="748" r="28"/><circle cx="226" cy="748" r="28"/><circle cx="363" cy="748" r="28"/><circle cx="500" cy="748" r="28"/><circle cx="636" cy="748" r="28"/><circle cx="773" cy="748" r="28"/><circle cx="910" cy="748" r="28"/></g>
+  <g class="gold sans" font-size="26" text-anchor="middle"><text x="90" y="757">✦</text><text x="226" y="757">▧</text><text x="363" y="757">♒</text><text x="500" y="757">▣</text><text x="636" y="757">♧</text><text x="773" y="757">↻</text><text x="910" y="757">{ }</text></g>
+
+  <rect x="26" y="910" width="315" height="270" class="panel"/><text x="72" y="955" class="gold text h2">What the MVP Does</text><text x="55" y="1000" class="text tiny">✓ Logs project lenses and 369 rounds</text><text x="55" y="1034" class="text tiny">✓ Captures Joy Signal + drag</text><text x="55" y="1068" class="text tiny">✓ Calculates Round Completion</text><text x="55" y="1102" class="text tiny">✓ Creates immutable SealPackets</text><text x="55" y="1136" class="text tiny">✓ Tends seeds with SeedNotes</text><text x="55" y="1170" class="text tiny">✓ Opens return rounds</text>
+  <rect x="356" y="910" width="326" height="270" class="panel"/><text x="410" y="955" class="gold text h2">Public Release</text><text x="396" y="1015" class="text tiny">GitHub Repo:</text><text x="396" y="1042" class="gold sans tiny">github.com/MichaelWave369/goldenjoy369</text><text x="396" y="1095" class="text tiny">Live App:</text><text x="396" y="1122" class="gold sans tiny">michaelwave369.github.io/goldenjoy369/</text><text x="396" y="1175" class="text tiny">Zenodo DOI: 10.5281/zenodo.20469484</text>
+  <rect x="697" y="910" width="277" height="270" class="panel"/><text x="735" y="955" class="gold text h2">Claim Discipline</text><text x="725" y="1008" class="text tiny">• Original symbolic-operational</text><text x="742" y="1034" class="text tiny">framework and runtime.</text><text x="725" y="1074" class="text tiny">• Not a universal law of nature.</text><text x="725" y="1114" class="text tiny">• Not a diagnostic tool.</text><text x="725" y="1154" class="text tiny">• Not φ/Fibonacci destiny.</text>
+
+  <rect x="26" y="1200" width="948" height="110" class="panel"/><text x="500" y="1270" text-anchor="middle" class="gold text" font-size="58">Seal → Seed → Tend → Return</text>
+  <line x1="120" y1="1340" x2="880" y2="1340" class="thin"/><text x="500" y="1384" text-anchor="middle" class="text small">Michael W. Hughes • PHI369 Labs / Parallax • GoldenJoy369 v0.1.0</text>
+</svg>
