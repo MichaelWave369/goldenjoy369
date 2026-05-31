@@ -1,0 +1,32 @@
+{
+  "title": "GoldenJoy369: No-Zero Spiral Runtime",
+  "upload_type": "software",
+  "description": "GoldenJoy369 is an interactive React/Vite prototype and formula framework for the Golden Joy No-Zero Spiral: a PHI369-style creative continuity model for logging creative rounds, sealing essence, tending seeded projects, and returning to work in season.",
+  "creators": [
+    {
+      "name": "Hughes, Michael W.",
+      "affiliation": "PHI369 Labs / Parallax"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "GoldenJoy369",
+    "PHI369",
+    "No-Zero Spiral",
+    "creative continuity",
+    "design science",
+    "React",
+    "Vite",
+    "Fibonacci",
+    "golden ratio"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/MichaelWave369/goldenjoy369",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Claim discipline: this is an original symbolic-operational framework and software runtime prototype. It is not a universal law of nature, a diagnostic tool, or a claim that Fibonacci/phi magically proves destiny."
+}
