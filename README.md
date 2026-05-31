@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20469484.svg)](https://doi.org/10.5281/zenodo.20469484)
 
+![GoldenJoy369 Master Infographic Poster](docs/assets/goldenjoy369_master_infographic_poster.svg)
+
 GoldenJoy369 is an interactive React/Vite prototype for the **Golden Joy No-Zero Spiral**: a PHI369-style creative continuity model for logging creative rounds, sealing essence, tending seeded projects, and returning to work in season.
 
 > Nothing is lost by accident. Every round is sealed, returned, merged, archived, or released with honor.
@@ -13,6 +15,14 @@ https://michaelwave369.github.io/goldenjoy369/
 ## DOI
 
 https://doi.org/10.5281/zenodo.20469484
+
+## Master infographic poster
+
+The repository includes a master public overview poster at:
+
+```text
+docs/assets/goldenjoy369_master_infographic_poster.svg
+```
 
 ## What the MVP does
 
