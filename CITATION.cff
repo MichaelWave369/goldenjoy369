@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "GoldenJoy369: No-Zero Spiral Runtime"
+message: "If you use this software or formula framework, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Hughes
+    given-names: Michael W.
+version: 0.1.0
+date-released: 2026-05-30
+abstract: "GoldenJoy369 is an interactive React/Vite prototype and formula framework for the Golden Joy No-Zero Spiral: a PHI369-style creative continuity model for logging creative rounds, sealing essence, tending seeded projects, and returning to work in season."
+keywords:
+  - goldenjoy369
+  - phi369
+  - creative-continuity
+  - design-science
+  - react
+  - no-zero
+license: MIT
+repository-code: "https://github.com/MichaelWave369/goldenjoy369"
+url: "https://michaelwave369.github.io/goldenjoy369/"
