@@ -7,6 +7,10 @@ authors:
     given-names: Michael W.
 version: 0.1.0
 date-released: 2026-05-30
+doi: 10.5281/zenodo.20469484
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20469484
 abstract: "GoldenJoy369 is an interactive React/Vite prototype and formula framework for the Golden Joy No-Zero Spiral: a PHI369-style creative continuity model for logging creative rounds, sealing essence, tending seeded projects, and returning to work in season."
 keywords:
   - goldenjoy369
